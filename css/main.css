@@ -1,0 +1,25 @@
+html, body {
+  font-family: 'Roboto Mono', Monopace;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+
+nobr {
+  border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.introduction {
+  color: #37BD23;
+  padding-top: 75px;
+  padding-bottom: 40px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
